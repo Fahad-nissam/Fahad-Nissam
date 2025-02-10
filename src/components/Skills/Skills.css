@@ -5,6 +5,12 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  
+}
+
+.btn{
+
+  border-radius: 12px;
 }
 
 .skills__list-item {
